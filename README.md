@@ -14,7 +14,7 @@ Ever wondered how movie makers make voices sound like they're in a spooky cave o
 
 | Time        | Activity                                  | Coolness Level |
 |-------------|-------------------------------------------|----------------|
-| 10:00-10:15 | 🔥 Kickoff: How Sound Bounces (Science!)  | 🌟🌟🌟          |
+| 10:00-10:15 | 🔥 [Kickoff: How Sound Bounces (Science!)](https://docs.google.com/presentation/d/1eOeq4KMlN96fQ81npPgKG22JO0PnEEGC/edit?usp=sharing&ouid=104851919358586613452&rtpof=true&sd=true)  | 🌟🌟🌟          |
 | 10:15-10:45 | 💻 Code Magic: Run Our Sound Transformer  | 🌟🌟🌟🌟         |
 | 10:45-11:45 | 🏃 Room Raid: Balloon Pop Recording Spree! | 🌟🌟🌟🌟🌟        |
 | 11:45-12:30 | 🎧 Results Party: Hear Your Room Sounds   | 🌟🌟🌟🌟🌟🌟       |
