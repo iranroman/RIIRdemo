@@ -15,7 +15,7 @@ Ever wondered how movie makers make voices sound like they're in a spooky cave o
 | Time        | Activity                                  | Coolness Level |
 |-------------|-------------------------------------------|----------------|
 | 10:00-10:15 | 🔥 [Kickoff: How Sound Bounces (Science!)](https://docs.google.com/presentation/d/1eOeq4KMlN96fQ81npPgKG22JO0PnEEGC/edit?usp=sharing&ouid=104851919358586613452&rtpof=true&sd=true)  | 🌟🌟🌟          |
-| 10:15-10:45 | 💻 [Code Magic: Run Our Sound Transformer](https://colab.research.google.com/github/yourusername/reponame/blob/main/IRdemo.ipynb)    | 🌟🌟🌟🌟         |
+| 10:15-10:45 | 💻 [Code Magic: Run Our Sound Transformer](https://colab.research.google.com/github/iranroman/RIIRdemo/blob/main/IRdemo.ipynb)    | 🌟🌟🌟🌟         |
 | 10:45-11:45 | 🏃 Room Raid: Balloon Pop Recording Spree! | 🌟🌟🌟🌟🌟        |
 | 11:45-12:30 | 🎧 Results Party: Hear Your Room Sounds   | 🌟🌟🌟🌟🌟🌟       |
 
@@ -27,7 +27,7 @@ Ever wondered how movie makers make voices sound like they're in a spooky cave o
 - 🤹 Your best balloon popping skills (we'll provide balloons!)  
 
 ### 🚀 Quick Start:  
-1. Click this magic button: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yourusername/reponame/blob/main/IRdemo.ipynb)  
+1. Click this magic button: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/iranroman/RIIRdemo/blob/main/IRdemo.ipynb) 
 2. Click "Run" ▶️ on each code section  
 3. HEAR YOUR ROOM TRANSFORM SOUNDS!  
 
